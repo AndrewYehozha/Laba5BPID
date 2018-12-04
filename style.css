@@ -1,0 +1,23 @@
+.o {
+  margin: auto;
+  margin-top: 10%;
+  width: 300px;
+  height: 320px;
+  display: grid;
+  grid-template-rows: 50px 50px 360px;
+  border: 2px solid black;
+  border-radius: 10%;
+  grid-gap: 5em;
+}
+
+.o div {
+  text-align: center;
+}
+
+p {
+  width: 300px;
+}
+
+form {
+  margin-bottom: 20px;
+}
